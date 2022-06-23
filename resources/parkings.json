@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Crescent Parking",
+    "type": "interior",
+    "city": "Montreal"
+  },
+  {
+    "id": 2,
+    "name": "De Gaspe Parking",
+    "type": "exterior",
+    "city": "Montreal"
+  },
+  {
+    "id": 3,
+    "name": "CityParking",
+    "type": "interior",
+    "city": "Montreal"
+  },
+  {
+    "id": 4,
+    "name": "Soleil Parking",
+    "type": "exterior",
+    "city": "Montreal"
+  },
+  {
+    "id": 5,
+    "name": "Stationnement Indigo",
+    "type": "interior",
+    "city": "Montreal"
+  }
+]

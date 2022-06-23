@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "parking": "Crescent Parking",
+        "parkingId": 1,
+        "clientName": "Martin Boucher",
+        "checkin": "2022-06-21T06:00:00",
+        "checkout": "2022-06-28T06:00:00"
+    },
+    {
+        "id": 2,
+        "parking": "Crescent Parking",
+        "parkingId": 1,
+        "clientName": "David Costa",
+        "checkin": "2022-06-14T06:00:00",
+        "checkout": "2022-06-22T06:00:00"
+    },
+    {
+        "id": 1,
+        "parking": "De Gaspe Parking",
+        "parkingId": 2,
+        "clientName": "Marie Pierrot",
+        "checkin": "2022-01-01T10:00:00",
+        "checkout": "2022-08-01T10:00:00"
+    }
+    ,
+    {
+        "id": 1,
+        "parking": "CityParking",
+        "parkingId": 3,
+        "clientName": "Matthieu Lenvert",
+        "checkin": "2022-07-25T09:00:00",
+        "checkout": "2022-07-26T09:00:00"
+    },
+    {
+        "id": 2,
+        "parking": "CityParking",
+        "parkingId": 3,
+        "clientName": "George Perrier",
+        "checkin": "2022-07-25T09:00:00",
+        "checkout": "2022-07-26T09:00:00"
+    },
+    {
+        "id": 1,
+        "parking": "Soleil Parking",
+        "parkingId": 4,
+        "clientName": "Thomas Grand",
+        "checkin": "2022-05-28T13:30:00",
+        "checkout": "2022-05-29T18:00:00"
+    },
+    {
+        "id": 2,
+        "parking": "Soleil Parking",
+        "parkingId": 4,
+        "clientName": "Robin Simon",
+        "checkin": "2022-06-21T20:00:00",
+        "checkout": "2022-06-25T10:00:00"
+    },
+    {
+        "id": 3,
+        "parking": "Soleil Parking",
+        "parkingId": 4,
+        "clientName": "Tarzan",
+        "checkin": "2022-06-21T20:00:00",
+        "checkout": "2022-06-25T10:00:00"
+    },
+    {
+        "id": 4,
+        "parking": "Soleil Parking",
+        "parkingId": 4,
+        "clientName": "Simon Dupont",
+        "checkin": "2022-06-23T80:00:00",
+        "checkout": "2022-06-23T20:00:00"
+    }
+]
